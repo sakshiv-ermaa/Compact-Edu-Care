@@ -7026,6 +7026,7 @@ textarea.form-control-lg {
 
 .d-flex {
   display: flex !important;
+  justify-content: center;
 }
 
 .d-inline-flex {
@@ -10948,7 +10949,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("bg.avif");
+  background-image: url("12.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11259,7 +11260,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: antiquewhite;
-  background-image: url("bg.avif");
+  background-image: url("1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
